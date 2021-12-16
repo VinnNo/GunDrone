@@ -8,7 +8,7 @@ A bullet-hell FPS prototype. So much a prototype that most of the enemies are ba
 * Bouncers - Launch the player in a direction
 * Spikes - Ouch
 * Energy Shields - Gotta get up close and personal to break them!
-* Entities - Characters (walking) and Flyers (flying) with customization behaviors!
+* Entities - Characters (walking) and Flyers (flying) with customizable behaviors!
 * Enemy Component - Slap one of these on anything with collision, and you've got an enemy!
 * PrimativeRotatorComponent – Easily rotates any primitive component
 * Wave Spawner – Spawn.. Waves of things.
