@@ -77,4 +77,38 @@ A component that can be added to any class and takes a primitive component with 
 ### Hitflash speed
 - How fast the hitflash changes color
 
+&nbsp; 
+&nbsp; 
+
+### Bouncers
+![Preview](https://github.com/VinnNo/GunDrone/blob/7148b98e012ec371bc1c0b09ff6e05907c9880f9/Examples/Bouncer.gif) 
+&nbsp; 
+&nbsp; 
+
+### Pickups and Upgrades
+![Preview](https://github.com/VinnNo/GunDrone/blob/7148b98e012ec371bc1c0b09ff6e05907c9880f9/Examples/PickupsAndUpgrades.gif) 
+&nbsp; 
+&nbsp; 
+
+### Flyer 2
+![Preview](https://github.com/VinnNo/GunDrone/blob/7148b98e012ec371bc1c0b09ff6e05907c9880f9/Examples/Flyer2.gif) 
+&nbsp; 
+&nbsp; 
+
+### Simple Blueprints
+Player
+![Preview](https://github.com/VinnNo/GunDrone/blob/7148b98e012ec371bc1c0b09ff6e05907c9880f9/Examples/Player_BP.png) 
+&nbsp; 
+&nbsp; 
+
+Flying Enemy 1
+![Preview](https://github.com/VinnNo/GunDrone/blob/7148b98e012ec371bc1c0b09ff6e05907c9880f9/Examples/Flying_Entity1.png) 
+&nbsp; 
+&nbsp; 
+
+Flying Enemy 2
+![Preview](https://github.com/VinnNo/GunDrone/blob/7148b98e012ec371bc1c0b09ff6e05907c9880f9/Examples/Flying_Entity2.png) 
+&nbsp; 
+&nbsp; 
+
 
